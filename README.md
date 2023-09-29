@@ -2,7 +2,7 @@
 
 1. Download Visual Studio and .NET Core 3.1
 2. Download sqlite for windows using link https://www.sqlite.org/download.html.
-3. Make a folder C:\Sqlite and paste a database testdb.db there
+3. Make a folder C:\Sqlite and paste a database testdbnew.db there
 4. Run the project using IIS Server
 5. You will see seven methods named as:
 6.      a) Create Ticket
