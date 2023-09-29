@@ -14,4 +14,5 @@
         g) Get User
 
 7. See below mentioned image for endpoints
-              <img width="1231" alt="image" src="https://github.com/Faaiza01/BugTrackingSystems/assets/39182127/bab9b54f-6fb8-4b76-872f-5a4e644f3b6e">
+              <img width="1229" alt="image" src="https://github.com/Faaiza01/BugTrackingSystems/assets/39182127/c7284500-86ae-4cb0-acdc-8304b7485e93">
+
